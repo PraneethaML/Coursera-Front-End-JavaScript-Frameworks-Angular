@@ -9,4 +9,6 @@
 
 - https://www.coursera.org/learn/angular/supplement/Rgc7B/setting-up-your-development-environment-git-and-node-additional-resources
 
+# Introduction to Angular: Additional Resources
 
+- https://www.coursera.org/learn/angular/supplement/mBehI/introduction-to-angular-additional-resources
